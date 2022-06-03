@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "awardpartners",
+  "info": {
+    "singularName": "awardpartner",
+    "pluralName": "awardpartners",
+    "displayName": "awardpartner"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "awardpartnername": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
